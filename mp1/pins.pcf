@@ -1,0 +1,7 @@
+# Clock input (12 MHz crystal)
+set_io clk 20
+
+# RGB LED pins (inverted logic)
+set_io RGB_R 41  # Red LED
+set_io RGB_G 40  # Green LED  
+set_io RGB_B 39  # Blue LED
